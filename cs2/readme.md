@@ -1,1 +1,1 @@
-Launch Options: -high -freq 240 -tickrate 128 -nojoy -console -allow_third_party_software
+Launch Options: **-high -novid -freq 240 -nojoy -console +cl_showfps 1 -allow_third_party_software**
