@@ -1,7 +1,7 @@
-CPU: i5-4690K 3.9Ghz (turbo boost)
+CPU: i5-4690K 3.9Ghz
 Motherboard: Asus H97M-PLUS
 Memory: 8 GB DDR3-1866 HyperX Fury
 SSD: 120 GB M.2 WD Green
 Video Card: EVGA GTX 750 Ti 2 GB
 Case: Sentey GS-6008
-Power Supply: Sentey 725W
+Fuente: Thermaltake 80+ White
