@@ -1,0 +1,54 @@
+// Launch Options: -noforcemaccel -noforcemspd -noforcemparms -freq ### -nofbo -nosync -nojoy -full
+// Change the ### on the launch options with your monitor refresh frequency
+
+// Mouse
+m_rawinput					"1"
+m_filter					"0"
+m_customaccel					"0"
+m_customaccel_exponent				"0"
+m_customaccel_max				"0"
+m_customaccel_scale				"0"
+-jlook
+
+// Cvars
+_cl_autowepswitch				"0"		
+brightness					"2"
+gamma						"3"
+MP3Volume					"0"
+bgmvolume					"0"
+voice_enable					"1"
+hud_centerid					"1"
+hud_fastswitch					"1"
+rate						"100000"
+cl_updaterate					"102"
+cl_cmdrate					"999"
+ex_interp					"0.00900"
+cl_radartype					"1"
+cl_crosshair_translucent			"0"
+cl_download_ingame				"1"
+cl_minmodels 					"1"
+cl_allowdownload				"1"
+cl_dynamiccrosshair				"0"
+cl_nosmooth					"1"
+cl_smoothtime					"0.1"
+cl_weather					"0"
+setinfo						"_vgui_menus" "0"
+setinfo						"_ah" "0"
+gl_texturemode					"GL_LINEAR_MIPMAP_LINEAR"
+gl_vsync 					"0"
+_sethdmodels					"0"
+net_graphpos					"1"
+
+// Only available on 25th anniversary update
+gl_lowlatency					"1"
+gl_use_shaders					"0"
+
+// Aliases
+alias 	+statusrpt 		"+showscores; net_graph 1"
+alias 	-statusrpt 		"-showscores; net_graph 0"
+bind	"TAB" 			"+statusrpt"
+
+clear
+echo	"//////////////////"
+echo	"Config executed..."
+echo	"//////////////////"
