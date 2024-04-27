@@ -1,8 +1,0 @@
-CPU: i5-4690K 3.9Ghz
-Motherboard: Asus H97M-PLUS
-Memory: 8 GB DDR3-1866 HyperX Fury
-Video Card: EVGA GTX 750 Ti 2 GB
-SSD: 120 GB M.2 WD Green
-HDD: 160 GB HDD 2.5 Toshiba 
-Fuente: 430w Thermaltake 80+ White
-Case: Sentey GS-6008
