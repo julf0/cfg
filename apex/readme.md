@@ -10,4 +10,4 @@ ver 2024.11.28 by julf
 
 %userprofile%\Saved Games\Respawn\Apex\profile\profile.cfg
 
-...Steam\steamapps\common\Apex Legends\cfg\autoexec.cfg
+{steam}\steamapps\common\Apex Legends\cfg\autoexec.cfg
