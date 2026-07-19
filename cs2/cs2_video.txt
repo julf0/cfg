@@ -1,7 +1,7 @@
 "video.cfg"
 {
-	"setting.defaultres"		"1280"
-	"setting.defaultresheight"		"960"
+	"setting.defaultres"		"1920"
+	"setting.defaultresheight"		"1080"
 	"setting.refreshrate_numerator"		"239760"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
@@ -31,5 +31,5 @@
 	"setting.videocfg_hdr_detail"		"3"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.r_low_latency"		"2"
-	"setting.aspectratiomode"		"0"
+	"setting.aspectratiomode"		"1"
 }
